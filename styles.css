@@ -1,0 +1,16 @@
+/* Reto coding
+Dado el siguiente HTML, aplicar los siguientes estilos en una hoja de estilos externa
+seleccionando las etiquetas correspondientes tal y como hemos visto en el ejemplo:
+La etiqueta p tiene que tener un color “skyblue”.
+
+󾓫 Clave : Valor CSS 🔑🎨 3
+
+La etiqueta h1 tiene que tener un color “white”.
+La etiqueta li tiene que tener un color “whitesmoke”.
+La etiqueta body tiene que tener un color de fondo “rgb(52, 52, 52)”.
+
+*Recordad aplicar correctamente el enlace a la hoja de estilos en el documento. */
+p{color: skyblue;}
+h1{color: white;}
+li{color: whitesmoke;}
+body{background-color: rgb(52,52,52);}
